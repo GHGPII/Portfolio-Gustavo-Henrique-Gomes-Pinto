@@ -36,7 +36,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
  
  _-Colete moedas para poder trocá-las por novas variações de bolinhas na loja_
 
-![Balance Marble](/images/Balance.png)
+![Balance Marble](/images/Balance.png | width=100)
 
 ### Contribuições notaveis
 - Controles baseados no acelerometro interno de smartfones
@@ -46,7 +46,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
 
 ## Robo Strike
 
-![Robo Strike](/images/Robo.png)
+![Robo Strike](/images/Robo.png | width=100)
 
 ### Contribuições notaveis
 - Integração de placares usando Firebase
