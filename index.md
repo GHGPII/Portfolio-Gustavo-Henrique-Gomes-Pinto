@@ -15,11 +15,11 @@ Estou no momento procurando por oportunidades de trabalho profissional, preferen
 - Balance Marble - SoftwareWA (Design e Programação) - [Veja na Playstore](https://play.google.com/store/apps/details?id=com.SoftwareWA.Game3/)
 - Rising Star - SoftwareWA (Design e Programação) - [Veja na Playstore](https://play.google.com/store/apps/details?id=com.SoftwareWaLtda.RisingStar2/)
 
-
-
 ## The Monstrous Frontier
 
 _“The Monstrous Frontier” é um construtor de cidades baseado em turnos premium para PC onde você tem que atrair aventureiros e criar missões em vez do controle de unidade direto tradicional._
+
+[Veja o blog de desenvolvimento!](https://softwarewa.com/blog/3/)
 
 ![Monstrous Frontier](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/MFGif.gif)
 
@@ -27,8 +27,6 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 ### Contribuições notaveis
 
 - Geração de mapas procedurais baseados em Tiles hexagonais
-
-
 
 ## Balance Marble 
 
