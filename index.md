@@ -36,7 +36,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
  
  _-Colete moedas para poder trocá-las por novas variações de bolinhas na loja_
 
-![Balance Marble](/images/Balance.png )
+![Balance Marble](/images/Balance.png)
 
 ### Contribuições notaveis
 - Controles baseados no acelerometro interno de smartfones
