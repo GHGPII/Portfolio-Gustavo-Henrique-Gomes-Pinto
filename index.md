@@ -24,7 +24,17 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 ### Contribuições notaveis
 
 - Geração de mapas procedurais baseados em Tiles hexagonais
-- Inteligencia 
+- Gameplay de construção de cidades baseado em turnos
+- IA de Monstros com rotinas baseada em máquina de estados
+- IA Aventureiros independentes
+- Sistema de Levels e atributos
+- Combate por turno em grid hexagonal
+- Geração procedural de Itens e Equipamentos que modificam ou adicionam atributos dos Aventureiros
+- Criação procedural de "Dungeons" para ser exploradas por Aventureiros
+- Sistemas de construções capazes de gerar, coletar e refinar recursos
+- Sistema de cidadãos que buscam habitação, consomem recursos e pagam taxas
+- Interface de criação de "Quests" autorizadas pelo jogador
+- Shaders e sistemas de partículas
 
 ## Balance Marble 
 
