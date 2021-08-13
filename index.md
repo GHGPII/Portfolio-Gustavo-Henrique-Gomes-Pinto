@@ -50,8 +50,8 @@ Estou no momento procurando por oportunidades de trabalho profissional, preferen
 ## Projetos Notaveis
 
 - Montrous Frontier - SoftwareWA (Design e Progrmação)
-- Balance Marble - SoftwareWA (Design e Programação) - Veja na Playstore
-- Rising Star - SoftwareWA (Design e Programação) - Veja na Playstore
+- Balance Marble - SoftwareWA (Design e Programação) - [Veja na Playstore] (https://play.google.com/store/apps/details?id=com.SoftwareWA.Game3)
+- Rising Star - SoftwareWA (Design e Programação) - [Veja na Playstore] (https://play.google.com/store/apps/details?id=com.SoftwareWaLtda.RisingStar2)
 
 
 
@@ -63,31 +63,24 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 
 
 ### Contribuições notaveis
-Geração de mapas procedurais baseados em Tiles hexagonais
+
+- Geração de mapas procedurais baseados em Tiles hexagonais
 
 
 
 ## Balance Marble 
 
 
-
-
-
-
-
-
-
-
 ### Contribuições notaveis
-Controles baseados no acelerometro interno de smartfones
-Integração de placares com Google Play Games
-Loja de microtransações
-Integração de propagandas com Admob
+- Controles baseados no acelerometro interno de smartfones
+- Integração de placares com Google Play Games
+- Loja de microtransações
+- Integração de propagandas com Admob
 
 Robo Dash
 
 
 
-Contribuições notaveis
-Integração de placares usando Firebase
-Integração de propagandas com Admob
+### Contribuições notaveis
+- Integração de placares usando Firebase
+- Integração de propagandas com Admob
