@@ -59,7 +59,7 @@ Estou no momento procurando por oportunidades de trabalho profissional, preferen
 
 _“The Monstrous Frontier” é um construtor de cidades baseado em turnos premium para PC onde você tem que atrair aventureiros e criar missões em vez do controle de unidade direto tradicional._
 
-[Monstrous Frontier](/images/MFGif)
+![Monstrous Frontier](/images/MFGif)
 
 
 ### Contribuições notaveis
