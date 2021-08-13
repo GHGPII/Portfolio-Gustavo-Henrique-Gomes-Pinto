@@ -21,7 +21,7 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 
 [Veja o blog de desenvolvimento!](https://softwarewa.com/blog/3/)
 
-![Monstrous Frontier](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/MFGif.gif)
+![Monstrous Frontier](\Portfolio-Gustavo-Henrique-Gomes-Pinto\images\MFGif.gif)
 
 
 ### Contribuições notaveis
@@ -36,7 +36,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
  
  _-Colete moedas para poder trocá-las por novas variações de bolinhas na loja_
 
-![Balance Marble](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Balance.png)
+![Balance Marble](\Portfolio-Gustavo-Henrique-Gomes-Pinto\images\Balance.png)
 
 ### Contribuições notaveis
 - Controles baseados no acelerometro interno de smartfones
@@ -46,7 +46,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
 
 ## Robo Strike
 
-![Robo Strike](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Robo.png)
+![Robo Strike](\Portfolio-Gustavo-Henrique-Gomes-Pinto\images\Robo.png)
 
 ### Contribuições notaveis
 - Integração de placares usando Firebase
