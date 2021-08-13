@@ -21,7 +21,7 @@ Estou no momento procurando por oportunidades de trabalho profissional, preferen
 
 _“The Monstrous Frontier” é um construtor de cidades baseado em turnos premium para PC onde você tem que atrair aventureiros e criar missões em vez do controle de unidade direto tradicional._
 
-![Monstrous Frontier](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/MFGif)
+![Monstrous Frontier](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/MFGif.gif)
 
 
 ### Contribuições notaveis
@@ -38,7 +38,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
  
  _-Colete moedas para poder trocá-las por novas variações de bolinhas na loja_
 
-![Balance Marble](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Balance)
+![Balance Marble](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Balance.png)
 
 ### Contribuições notaveis
 - Controles baseados no acelerometro interno de smartfones
@@ -48,7 +48,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
 
 ## Robo Strike
 
-![Robo Strike](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Robo)
+![Robo Strike](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Robo.png)
 
 ### Contribuições notaveis
 - Integração de placares usando Firebase
