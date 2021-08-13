@@ -33,7 +33,9 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 ## Balance Marble 
 
 _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear sua bolinha e desviar das bombas caindo sobre ela."_
+
  _-Compartilhe seu melhor tempo online com a tabela de liderança_
+ 
  _-Colete moedas para poder trocá-las por novas variações de bolinhas na loja_
 
 ![Balance Marble](/Portfolio-Gustavo-Henrique-Gomes-Pinto/images/Balance)
