@@ -59,7 +59,7 @@ Estou no momento procurando por oportunidades de trabalho profissional, preferen
 
 _“The Monstrous Frontier” é um construtor de cidades baseado em turnos premium para PC onde você tem que atrair aventureiros e criar missões em vez do controle de unidade direto tradicional._
 
-
+[](/images/MFGif)
 
 
 ### Contribuições notaveis
@@ -77,9 +77,7 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 - Loja de microtransações
 - Integração de propagandas com Admob
 
-Robo Dash
-
-
+## Robo Dash
 
 ### Contribuições notaveis
 - Integração de placares usando Firebase
