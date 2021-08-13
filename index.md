@@ -70,6 +70,7 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 
 ## Balance Marble 
 
+![Balance Marble](/images/Balance)
 
 ### Contribuições notaveis
 - Controles baseados no acelerometro interno de smartfones
@@ -77,7 +78,9 @@ _“The Monstrous Frontier” é um construtor de cidades baseado em turnos prem
 - Loja de microtransações
 - Integração de propagandas com Admob
 
-## Robo Dash
+## Robo Strike
+
+![Robo Strike](/images/Robo)
 
 ### Contribuições notaveis
 - Integração de placares usando Firebase
