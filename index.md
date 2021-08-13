@@ -46,7 +46,7 @@ _"Um jogo Mobile aonde você usa o acelerômetro do seu celular para balancear s
 
 ## Robo Strike
 
-![Robo Strike](/images/Robo.png =100x100)
+<img src="/images/Robo.png"width="150" height="280">
 
 ### Contribuições notaveis
 - Integração de placares usando Firebase
